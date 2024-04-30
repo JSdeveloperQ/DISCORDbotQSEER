@@ -1,0 +1,2 @@
+# DISCORDbotQSEER
+opensource bot
