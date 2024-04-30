@@ -74,4 +74,4 @@ client.on('message', message =>{ // ивент, когда приходит лю
     }
 })
 
-client.login(`MTIzMzcyMzM0NDgyMjQ3MjcyNA.G9hBC_.iQ8KXODLgKGrLWMHsekOqK8CUDUa8ktQcDrX6k`);
+client.login(`TOKEN`);
